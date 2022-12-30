@@ -81,7 +81,7 @@
     "aws-sdk": "^2.528.0",
     "ip": "^1.1.5",
     "iris-messenger": "https://github.com/irislib/iris-messenger",
-    "mocha": "^6.2.0",
+    "mocha": "^10.2.0",
     "panic-manager": "^1.2.0",
     "panic-server": "^1.1.1",
     "tsd": "^0.17.0",
